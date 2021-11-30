@@ -1,4 +1,4 @@
 #ignoring files
-.pom.xml
-.classpath
-.settings
+.pom.xml/
+.classpath/
+.settings/

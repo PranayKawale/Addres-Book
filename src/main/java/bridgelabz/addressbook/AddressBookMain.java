@@ -1,4 +1,4 @@
-package bridgelabz.mysqladdressbook;
+package bridgelabz.addressbook;
 
 public class AddressBookMain {
 	public static void main(String[] args) {

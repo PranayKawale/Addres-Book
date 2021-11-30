@@ -1,4 +1,4 @@
-package bridgelabz.mysqladdressbook;
+package bridgelabz.addressbook;
 
 
 
